@@ -42,5 +42,4 @@ tgcrypto
 uvloop
 xattr
 yt-dlp
-tgcrypto-pyroblack
-pyroblack==2.3.86
+pyrogram==2.0.106
